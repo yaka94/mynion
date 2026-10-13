@@ -1,0 +1,8 @@
+banana Pwede / Simikaru / Nononio : le programme choisit
+age me want hanadulsae(poka("Ton âge ? "))
+pwede age < yeol :
+    bello("Encore un petit minion ! 🍼")
+simikaru age < dul * yeol :
+    bello("Un minion bien grandi ! 💪")
+nononio :
+    bello("Un sage du repaire ! 🧠")

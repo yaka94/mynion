@@ -1,0 +1,9 @@
+banana Paratu & Bananera : répéter en comptant
+paratu numero dan bananera(hana, daseot + hana) :
+    bello("Banane n°", numero)
+bello("Miam !")
+banana La somme de 1 à 10
+total me want gong
+paratu i dan bananera(hana, yeol + hana) :
+    total me want total + i
+bello("Le total est", total)

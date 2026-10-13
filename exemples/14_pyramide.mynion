@@ -1,0 +1,4 @@
+banana La pyramide de bananes 🍌
+hauteur me want daseot
+paratu ligne dan bananera(hana, hauteur + hana) :
+    bello(" " * (hauteur - ligne) + "🍌" * ligne)

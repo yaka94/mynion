@@ -1,0 +1,11 @@
+banana Beedo : tant que… (bee do bee do !)
+compteur me want daseot
+beedo compteur > gong :
+    bello("Bee do bee do :", compteur)
+    compteur me want compteur - hana
+bello("BOOM ! 💥")
+banana Bananos : sauter les nombres pairs
+paratu n dan bananera(gong, yeol) :
+    pwede n % dul == gong :
+        bananos
+    bello(n)

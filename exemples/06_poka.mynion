@@ -1,0 +1,4 @@
+banana Poka : parler avec l'utilisateur (remplis le panneau « Entrée » !)
+nom me want poka("Comment t'appelles-tu ? ")
+bello("Bello,", nom, "!")
+bello("Bienvenue au repaire des Mynions !")

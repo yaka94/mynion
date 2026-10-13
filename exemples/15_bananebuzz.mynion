@@ -1,0 +1,10 @@
+banana BANANE BUZZ ! (le grand classique, version Minion)
+paratu n dan bananera(hana, yeol + hana) :
+    pwede n % sae == gong tiamo n % daseot == gong :
+        bello("BELLOBANANA")
+    simikaru n % sae == gong :
+        bello("BELLO")
+    simikaru n % daseot == gong :
+        bello("BANANA")
+    nononio :
+        bello(n)

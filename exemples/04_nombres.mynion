@@ -1,0 +1,7 @@
+banana Les nombres des Minions (hana, dul, sae !)
+bello(hana, dul, sae, net, daseot)
+bello(yeoseot, ilgop, yeodeol, ahop, yeol)
+bello("7 + 2  =", ilgop + dul)
+bello("7 * 2  =", ilgop * dul)
+bello("7 // 2 =", ilgop // dul, "et il reste", ilgop % dul)
+bello("(1 + 2) * 3 =", (hana + dul) * sae)

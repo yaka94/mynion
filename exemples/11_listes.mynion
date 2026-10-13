@@ -1,0 +1,8 @@
+banana Les régimes de bananes (les listes)
+minions me want ["Kevin", "Stuart", "Bob"]
+bello("L'équipe :", minions)
+bello("Le chef, c'est", minions[gong])
+pousse(minions, "Otto")
+bello("On est maintenant", muchos(minions), "minions.")
+paratu m dan minions :
+    bello("Bello", m, "!")

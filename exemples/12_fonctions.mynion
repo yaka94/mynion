@@ -1,0 +1,13 @@
+banana Minion & Gelato : crée tes propres minions (fonctions)
+minion saluer(nom) :
+    bello("Bello", nom, "!")
+    gelato "Bello " + nom
+
+message me want saluer("Stuart")
+bello(message)
+
+minion double(nombre) :
+    gelato nombre * dul
+
+bello("Le double de 21 est", double(dul * yeol + hana))
+bello("Le double du double :", double(double(yeol)))

@@ -1,0 +1,7 @@
+banana Me want = ranger une valeur dans une boîte
+nom me want "Kevin"
+fruit me want "banana"
+age me want yeol
+bello("Je m'appelle", nom)
+bello("J'adore les", fruit)
+bello("Mon âge :", age)

@@ -1,0 +1,5 @@
+banana Le texte (les chaînes de caractères)
+phrase me want "Les Minions " + "adorent " + "les bananes !"
+bello(phrase)
+bello("Banana ! " * yeol)
+bello("Le mot 'banana' contient", muchos("banana"), "lettres")

@@ -1,0 +1,17 @@
+banana 🎮 LE NOMBRE MYSTÈRE
+banana ⚠️ Remplis le panneau « Entrée » avec des propositions (une par ligne : 50, 75, 62…)
+mystere me want surprise(hana, yeol * yeol)
+essais me want gong
+trouve me want bananonina
+bello("J'ai caché un nombre entre 1 et 100. À toi de le trouver !")
+beedo nabanana trouve :
+    essais me want essais + hana
+    essai me want hanadulsae(poka("Essai n°" + blabla(essais) + " : "))
+    pwede essai == mystere :
+        trouve me want tulaliloo
+        bello("🎉 GAGNÉ en", essais, "essais !")
+    simikaru essai < mystere :
+        bello("Plus grand ! ⬆️")
+    nononio :
+        bello("Plus petit ! ⬇️")
+bello("Poopaye, champion ! 👋")

@@ -1,0 +1,4 @@
+banana Surprise ! Le hasard fait bien les choses 🎲
+bello("Le dé affiche :", surprise(hana, yeoseot))
+bello("On relance :", surprise(hana, yeoseot))
+bello("Un nombre entre 1 et 100 :", surprise(hana, yeol * yeol))
